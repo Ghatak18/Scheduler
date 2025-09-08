@@ -13,17 +13,22 @@
   "license": "ISC",
   "description": "",
   "devDependencies": {
+    "@types/cors": "^2.8.19",
     "@types/dotenv": "^6.1.1",
     "@types/express": "^5.0.3",
     "@types/knex": "^0.15.2",
+    "@types/luxon": "^3.7.1",
     "@types/node": "^24.3.1",
     "ts-node-dev": "^2.0.0",
     "typescript": "^5.9.2"
   },
   "dependencies": {
+    "cors": "^2.8.5",
     "dotenv": "^17.2.2",
     "express": "^5.1.0",
     "knex": "^3.1.0",
+    "luxon": "^3.7.2",
+    "path": "^0.12.7",
     "pg": "^8.16.3"
   }
 }

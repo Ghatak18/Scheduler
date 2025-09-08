@@ -9,7 +9,7 @@
     "outDir": "./dist",
     "rootDir": "./src",
     "types": ["node"],
-    "allowImportingTsExtensions": true
+    //"allowImportingTsExtensions": true
   },
   "include": ["src"],
   "exclude": ["node_modules"]
